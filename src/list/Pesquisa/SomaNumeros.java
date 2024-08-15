@@ -59,6 +59,7 @@ public class SomaNumeros {
     }
 
     public static void main(String[] args) {
+
         SomaNumeros somaNumeros = new SomaNumeros();
         somaNumeros.adicionarNumero(5);
         somaNumeros.adicionarNumero(7);
